@@ -71,16 +71,19 @@ To avoid overwhelming the users, I structured the dashboard into three distinct 
 
 #### 1️⃣ Dashboard 1 Preview  
 <img width="1237" height="698" alt="image" src="https://github.com/user-attachments/assets/95223927-29ae-4b3a-a026-712ebeba11bf" />
+
 * **Observation:** The company show Total Revenue reaching $17.6M and  Net Profit Margin of 24.6%. However, the Revenue to Net Profit Bridge (Waterfall chart) shows the revenue is consumed by COGS ($7M) and Opex ($6M), heavily low down to a final Net Profit of $4.3M.
 * **Recommendation:** Since COGS and Opex account for over 69% of total revenue, the operations team must to audit internal inefficiencies. Optimizing these two major cost buckets by just 5% will significantly scale the final net profit.
 
 #### 2️⃣ Dashboard 2 Preview 
 <img width="1236" height="705" alt="image" src="https://github.com/user-attachments/assets/f2ce705b-9f2b-4e98-9c17-ebbf14d36790" />
+
 * **Observation:** While "Sports Equipment" generates high revenue volume, the true profit engine is "Sportswear", delivering  $2.74M in Net Profit. Also, the "Nutrition" segment is lost -$0.71M.
 * **Recommendation:** Need financial audit into the "Nutrition" cost. If the -$0.71M loss cannot be reversed through cost-cutting, leadership should consider pausing this segment. Also, reallocate capital to scale the highly efficient "Sportswear" division.
 
 #### 3️⃣ Dashboard 3 Preview  
 <img width="1249" height="698" alt="image" src="https://github.com/user-attachments/assets/ccf652e6-a209-4529-90f0-a884f804ea43" />
+
 * **Observation:** When breaking down these costs, the bar chart explicitly shows that  Labor is the most massive expense subgroups, outweighing other operational costs.
 * **Recommendation:** Implement stricter budget caps and monthly tracking  specifically for Labor.
 
